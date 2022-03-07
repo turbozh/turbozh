@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @turbozh
-- 👀 I’m interested in Freecad, Openscad, 3d printing, inc work
+- 👀 I’m interested in Freecad, Openscad, 3d printing, cnc work
 - 🌱 I’m currently learning Freecad
 - 📫 How to reach me ...
 
